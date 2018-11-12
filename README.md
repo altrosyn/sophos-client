@@ -1,4 +1,4 @@
-**Console based cross platform firewall login client**
+**Console based cross platform Sophos firewall login client**
 
 This is a cross platform portal client for sophos firewall made using [puppetteer](https://github.com/GoogleChrome/puppeteer "puppetteer").
 
