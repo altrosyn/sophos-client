@@ -8,6 +8,6 @@ This client opens a real google chrome browser to login on console based systems
 
 **Usage**
 
-Just clone the repo and run "nodejs app.js"
+Just clone the repo and run "nodejs app.js" after downloading and extracting chrome using the chromelatest.sh
 
 If the architecture is not x86/x64, chrome binaries for that architecture need to be downloaded before use.
